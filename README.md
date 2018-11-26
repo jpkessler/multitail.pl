@@ -1,10 +1,10 @@
-# multitail.pl
+## multitail.pl
 
-## Description
+### Description
 
 A tail command for multiple files.
 
-## Usage
+### Usage
 
 ```
 multitail.pl [ OPTIONS ] FILE1 FILE2 ...
@@ -13,7 +13,7 @@ OPTIONS	- same as for tail command
 FILES	- one or multiple files
 ```
 
-## License
+### License
 
 None. Use it for free.
 
